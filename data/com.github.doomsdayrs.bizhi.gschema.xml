@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="bizhi">
+	<schema id="com.github.doomsdayrs.bizhi" path="/com/github/doomsdayrs/bizhi/">
+	</schema>
+</schemalist>

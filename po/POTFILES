@@ -1,0 +1,4 @@
+data/com.github.doomsdayrs.bizhi.desktop.in
+data/com.github.doomsdayrs.bizhi.appdata.xml.in
+data/com.github.doomsdayrs.bizhi.gschema.xml
+src/bizhi-window.ui
